@@ -40,3 +40,26 @@ body {
     min-height: 150px;
     text-align: center;
 }
+
+table {
+    box-shadow: -8px 7px 0px 1px rgba(0, 0, 0, 0.67);
+    -webkit-box-shadow: -8px 7px 0px 1px rgba(0, 0, 0, 0.67);
+    -moz-box-shadow: -8px 7px 0px 1px rgba(0, 0, 0, 0.67);
+}
+
+table thead th {
+    background-color: rgb(15, 99, 172);
+    color: white;
+}
+
+table tfoot td {
+    background-color: lightgray;
+}
+
+table tbody tr:nth-child(even) {
+    background-color: #f1f1f1;
+}
+
+table tbody tr:hover td {
+    background-color: rgb(15, 99, 172);
+}
