@@ -57,7 +57,7 @@ table tfoot td {
 }
 
 table tbody tr:nth-child(even) {
-    background-color: #f1f1f1;
+    background-color: #a5c8e9;
 }
 
 table tbody tr:hover td {
