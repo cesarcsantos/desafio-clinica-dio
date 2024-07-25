@@ -42,9 +42,9 @@ body {
 }
 
 table {
-    box-shadow: -8px 7px 0px 1px rgba(0, 0, 0, 0.67);
-    -webkit-box-shadow: -8px 7px 0px 1px rgba(0, 0, 0, 0.67);
     -moz-box-shadow: -8px 7px 0px 1px rgba(0, 0, 0, 0.67);
+    -webkit-box-shadow: -8px 7px 0px 1px rgba(0, 0, 0, 0.67);
+    box-shadow: -8px 7px 0px 1px rgba(0, 0, 0, 0.67);
 }
 
 table thead th {
